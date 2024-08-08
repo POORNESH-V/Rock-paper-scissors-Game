@@ -1,2 +1,3 @@
-# Coursera-Test
-It's a coursera test repository
+# Project 2
+
+This repository is Rock-Paper-Scissors game built using Python
